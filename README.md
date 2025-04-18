@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a seasoned software engineer with 15 years of hands-on experience in full-stack development, cloud-based application architecture, and mobile solutions. I have demonstrated leadership in building and managing cross-functional teams, with a proven ability to drive innovation and streamline development across web, mobile, and enterprise platforms. I'm also adept at anticipating market trends to proactively adjust development strategies and align team capabilities, delivering high-impact solutions that enhance business competitiveness.
+I'm a seasoned software engineer with over 15+ years of hands-on experience in full-stack development, cloud-based application architecture, and mobile solutions. I have demonstrated leadership in building and managing cross-functional teams, with a proven ability to drive innovation and streamline development across web, mobile, and enterprise platforms. I'm also adept at anticipating market trends to proactively adjust development strategies and align team capabilities, delivering high-impact solutions that enhance business competitiveness.
 
 Beyond work, I enjoy exploring code and building projects that reflect both curiosity and creativity. In my spare time, I dive into open-source tools or personal-use applications and modify them to better fit my ideas and preferences. You'll find many of these implementations and experiments in my public repositories.
 
