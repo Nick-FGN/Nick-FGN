@@ -39,8 +39,3 @@ I value clean architecture and practical problem-solving, and I always welcome t
 
 ---
 
-## 👁️‍🗨️ Visitor Count
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=fgnick1984&color=blue&style=flat)
-
----
